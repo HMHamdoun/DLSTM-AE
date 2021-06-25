@@ -1,4 +1,5 @@
-# DLSTM-AE for Hierarchical Time Series
+# DLSTM-AE for Hierarchical Time Series Forecasting
+
 
 
 This is the implementation of Deep LSTM based Transfer Learning (DLSTM-AE) model

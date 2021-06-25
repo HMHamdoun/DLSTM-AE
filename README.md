@@ -6,6 +6,9 @@ This is the implementation of Deep LSTM based Transfer Learning (DLSTM-AE) model
 This model is the implementation of the  paper titled:
 Deep LSTM based Transfer Learning Approach forCoherent Forecasts in Hierarchical Time Series
 
+Contrbution: 
+Developing the DLSTM model in Auto-Encoder (AE) fashion takes full advantage of hierarchical architecture for better time series forecasting
+
 
 Environment
 

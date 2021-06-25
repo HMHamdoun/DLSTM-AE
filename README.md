@@ -1,4 +1,4 @@
-# DLSTM-AE
+# DLSTM-AE for Hierarchical Time Series
 
 
 This is the implementation of Deep LSTM based Transfer Learning (DLSTM-AE) model
@@ -10,7 +10,7 @@ Contrbution:
 Developing the DLSTM model in Auto-Encoder (AE) fashion takes full advantage of hierarchical architecture for better time series forecasting
 
 
-Environment
+Computation Environment: 
 
 OS: Ubuntu 16.04
 
